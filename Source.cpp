@@ -344,7 +344,7 @@ void Entreprise::affiche() {
 int main() {
 	cout << "Programme de modélisation du groupe Peugeot:" << endl;
 	Personne e;
-	e.init("Gratadeix", "Lilian", 18, Developpeur,"Dev appli c++");
+	e.init("Kekimus", "Lilian", 18, Developpeur,"Dev appli c++");
 	e.affiche();
 	Ville v;
 	v.init("Nevers", Nievre, Bourgogne_Franche_Comte);
